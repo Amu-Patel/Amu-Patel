@@ -4,9 +4,7 @@
 
 <img align="right" alt="coding-gif" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amu-patel&label=Profile%20views&color=0e75b6&style=flat" alt="amu-patel" />
-</p>
+
 
 ---
 
