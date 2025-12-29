@@ -14,7 +14,6 @@
 - 🎓 MCA student with a background in Computer Science  
 - 💻 Aspiring **Full-Stack (MERN) Developer**  
 - 🧠 Actively practicing **Data Structures & Algorithms (DSA)**  
-- 📊 Interested in **data analysis & visualization**  
 - 🚀 Preparing for **software engineering & full-stack roles**  
 - 📫 Reach me at **amishaatel549@gmail.com**
 
