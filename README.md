@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amisha Patel</h1>
-<h3 align="center">"Crafting Digital Wonders: A Tech Journey"</h3>
+<h6 align="center">Lavanya</h6>
+<h3 align="center">"Passionate about building technology that makes an impact"</h3>
 
 <img align="right" alt="coding-gif" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
@@ -35,14 +36,11 @@
 ---
 
 ### 🧠 Data Structures & Algorithms
-- Arrays, Strings, Linked List  
-- Stack, Queue, Hashing  
-- Recursion & Backtracking  
-- Sorting & Searching  
-- Basic Trees & Graphs  
+- Arrays, Strings 
+- Sorting & Searching   
 - Problem solving on **LeetCode**
 
-🔗 **LeetCode Profile:** https://leetcode.com/your-username
+🔗 **LeetCode Profile:** [https://leetcode.com/your-username](https://leetcode.com/u/amisha_patel_0024/)
 
 ---
 
