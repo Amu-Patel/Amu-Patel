@@ -37,7 +37,7 @@
 - Sorting & Searching   
 - Problem solving on **LeetCode**
 
-🔗 **LeetCode Profile:** [https://leetcode.com/your-username](https://leetcode.com/u/amisha_patel_0024/)
+🔗 **LeetCode Profile:** https://leetcode.com/u/amisha_patel_0024
 
 ---
 
