@@ -25,7 +25,7 @@
 <a href="https://instagram.com/digital.amishapatel" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
-<a href="https://leetcode.com/" target="_blank">
+<a href="https://leetcode.com/u/amisha_patel_0024" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" width="40" />
 </a>
 </p>
